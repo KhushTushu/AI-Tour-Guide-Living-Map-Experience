@@ -1,0 +1,7 @@
+{
+  "name": "Vagabond AI - Living Map Explorer",
+  "description": "An immersive AI-powered tour guide and interactive map experience for exploring world landmarks and creating custom itineraries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
